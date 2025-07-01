@@ -1,5 +1,4 @@
 # NameColorPlugin
-# NameColorPlugin
 This is a plugin to change the color of the name in the chat box of Minecraft!
 ______________________________________________________________________________________________
 🌈 NameColorPlugin - Chat Name Color Customizer for Spigot 1.21.x
