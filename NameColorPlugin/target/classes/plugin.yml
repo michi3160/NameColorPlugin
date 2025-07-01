@@ -1,0 +1,13 @@
+name: NameColorPlugin
+version: 1.0
+main: me.yourname.namecolor.NameColorPlugin
+api-version: 1.21
+commands:
+  namecolor:
+    description: Change name color
+    usage: /namecolor <player> <color>
+permissions:
+  namecolor.self:
+    default: true
+  namecolor.others:
+    default: op
