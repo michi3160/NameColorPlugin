@@ -48,4 +48,5 @@ Matches LuckPerms group names.
 Uses standard Minecraft color codes (&0 - &f).
 
 If LuckPerms is not installed, these values still work based on config.
+V1.0 version1.21.x
 
